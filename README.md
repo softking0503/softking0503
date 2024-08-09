@@ -12,7 +12,7 @@
 </div>
 
 <br>
-<div width="100%", style="display: flex, padding-left:15px" >
+<div width="100%", style="display: flex; padding-left:15px; text-align: center;" >
     <img src="https://github-readme-streak-stats.herokuapp.com?user=softking0503&theme=radical&hide_border=true" alt="GitHub Streak" />
     <img alt="softking0503's Github stats"  src="https://github-readme-stats-one-bice.vercel.app/api?username=softking0503&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </div>

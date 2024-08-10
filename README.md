@@ -1,5 +1,17 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/softking0503/softking0503/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/softking0503/softking0503/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+- 🔭 I’m currently working on [ My Portfolio building  ](https://github.com/PaulWebdeveloper7/java_beginner_guide)
+
+- 🌱 I’m currently learning **Typescript, ai , python , java **
+
+- 🤝 I’m looking for help with [Shiny-parakeet](https://github.com/PaulWebdeveloper7/shiny-parakeet)
+
+- 👨‍💻 All of my projects are available at [https://github.com/softking0503](https://github.com/softking0503)
+
+- 💬 Ask me about **next js , mongodb , react , tailwind css , scss , nodemailer**
+
+- 📫 How to reach me **softking0503@gmail.com**
+
+- ⚡ Fun fact **1. Masters of Both Worlds(front-end developer and backend developer) ,wear many hats**
+
 
 <div style="text-align: center;">
     <div style="display: inline-block; height: 100%;">

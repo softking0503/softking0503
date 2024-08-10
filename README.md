@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Typescript, ai , python , java **
 
-- 🤝 I’m looking for help with [Shiny-parakeet](https://github.com/PaulWebdeveloper7/shiny-parakeet)
+- 🤝 I’m looking for help with [React-MindMap](https://github.com/softking0503/react-mindmap)
 
 - 👨‍💻 All of my projects are available at [https://github.com/softking0503](https://github.com/softking0503)
 

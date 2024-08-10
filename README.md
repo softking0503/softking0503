@@ -3,7 +3,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [ My Portfolio building  ](https://github.com/PaulWebdeveloper7/java_beginner_guide)
+- 🔭 My portfolio is [ My Portfolio ](https://andrewclarker-nextjs.onrender.com/)
 
 - 🌱 I’m currently learning **Typescript, ai , python , java **
 

@@ -25,12 +25,10 @@
 
 <br>
 
-<h1 align="center">⚡ Github Stats</h1>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathfavour&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathfavour&theme=algolia) |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="[https://streak-stats.demolab.com?user=nathfavour&theme=vue-dark" alt="nathfavour Streak](https://github-readme-streak-stats.herokuapp.com?user=softking0503&theme=radical&hide_border=true" alt="GitHub Streak)" />                                           |  <img width="450em" align="center" alt="nathfavour's Github stats"  src="[https://github-readme-stats.vercel.app/api?username=nathfavour&show_icons=true&count_private=true&theme=vue-dark](https://github-readme-stats-one-bice.vercel.app/api?username=softking0503&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)" />   |
-
+<p align="center" width="100%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=softking0503&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img alt="softking0503's Github stats"  src="https://github-readme-stats-one-bice.vercel.app/api?username=softking0503&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  />
+</p>
 <br/>
 <br>
 <div align="center">

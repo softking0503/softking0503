@@ -29,10 +29,10 @@
 </div>
 
 <br>
-<p align="center" width="100%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=softking0503&theme=radical&hide_border=true" alt="GitHub Streak" />
-    <img alt="softking0503's Github stats"  src="https://github-readme-stats-one-bice.vercel.app/api?username=softking0503&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  />
-</p>
+<div align="center">
+    <a href="https://github.com/softking0503?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=softking0503&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" /></a>
+    <a href="https://github.com/RoriFloris?tab=repositories"><img alt="softking0503's Github stats"  src="https://github-readme-stats-one-bice.vercel.app/api?username=softking0503&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%"/></a>
+</div>
 <br>
 <div align="center">
     <div style="display: inline-block; height: 100%;">

@@ -5,13 +5,13 @@
 
 - 🔭 My portfolio is [ My Portfolio ](https://andrewclarker-nextjs.onrender.com/)
 
-- 🌱 I’m currently learning **Typescript, ai , python , java **
+- 🌱 I’m currently learning **Typescript, AI , Python , Java **
 
 - 🤝 I’m looking for help with [React-MindMap](https://github.com/softking0503/react-mindmap)
 
 - 👨‍💻 All of my projects are available at [https://github.com/softking0503](https://github.com/softking0503)
 
-- 💬 Ask me about **next js , mongodb , react , tailwind css , scss , nodemailer**
+- 💬 Ask me about **Next js , Mongodb , React , Tailwind Css , Nodemailer**
 
 - 📫 How to reach me **softking0503@gmail.com**
 

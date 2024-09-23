@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, AI , Python , Java **
 
-- 🤝 I’m looking for help with [React-MindMap](https://github.com/softking0503/react-mindmap)
+- 🤝 I’m looking for help with [CRM-FILTERS-AND-SENDING](https://github.com/softking0503/CRM-FILTERS-AND-SENDING)
 
 - 👨‍💻 All of my projects are available at [https://github.com/softking0503](https://github.com/softking0503)
 
